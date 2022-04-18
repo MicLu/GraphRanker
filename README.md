@@ -16,6 +16,8 @@ Prints the ranking of all the graphs added by the start of the program before th
 
 Each graph it’s identified by its unique id (that is assigned during "AggiungiGrafo") and a number considered in the raking which is the sum of all the minimum path from the node 0 and all the others nodes of the graph, considering 0 the value of the nodes not reachable by the node 0.
 
+---
+
 ### Example
 
 ```
