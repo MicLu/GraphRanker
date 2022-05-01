@@ -1,6 +1,7 @@
 # GraphRanker
 
 GraphRanker is a program that manages the ranking of weighted graphs.
+
 The Graph at the start receives in input 2 parameters:  
 -	**d** : number of nodes in the graphs
 -	**k** : the length of the ranking
@@ -35,11 +36,10 @@ AggiungiGrafo
 0,0,5
 0,9,0
 TopK
-
+```
 
 The program prints out: 
-
-0 1 
-
-the index of the graph number 0 and 1
 ```
+0 1 
+```
+the index of the graph number 0 and 1.
